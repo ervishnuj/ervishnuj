@@ -1,14 +1,14 @@
-# Hi, I'm Vishnu 👋
+ Hi, I'm Vishnu 👋
 
-### Zoho Developer | Automation & Integration | PLC & SCADA Enthusiast
+ Zoho Developer | Automation & Integration | PLC & SCADA Enthusiast
 
 I'm a developer passionate about building business applications, workflow automation, system integrations, and industrial automation solutions.
 
-I work primarily with the **Zoho ecosystem**, while continuously expanding my knowledge in **PLC, SCADA, industrial automation, and C#**.
+I work primarily with the Zoho ecosystem, while continuously expanding my knowledge in PLC, SCADA, industrial automation, and C#*.
 
 ---
 
-## 🚀 About Me
+ 🚀 About Me
 
 * 💻 Zoho Developer focused on business application development
 * ⚙️ Experienced in workflow automation and system integrations
@@ -20,9 +20,9 @@ I work primarily with the **Zoho ecosystem**, while continuously expanding my kn
 
 ---
 
-## 🛠️ Technical Skills
+ 🛠️ Technical Skills
 
-### Zoho Ecosystem
+ Zoho Ecosystem
 
 * Zoho Creator
 * Zoho CRM
@@ -33,7 +33,7 @@ I work primarily with the **Zoho ecosystem**, while continuously expanding my kn
 * CRM Integrations
 * Workflow Automation
 
-### Development
+Development
 
 * C#
 * Java
@@ -151,11 +151,11 @@ I'm interested in opportunities involving:
 
 I'm always interested in connecting with developers, automation engineers, recruiters, and professionals working in the Zoho and Industrial Automation space.
 
-📧 Email: **YOUR_EMAIL**
+📧 Email: ervishnuj@gmail.com
 
-💼 LinkedIn: **YOUR_LINKEDIN_URL**
+💼 LinkedIn: [LINKEDIN_URL](https://www.linkedin.com/in/vishnu-j-8880bb384/)
 
-🐙 GitHub: **YOUR_GITHUB_URL**
+🐙 GitHub: [GITHUB_URL](https://github.com/ervishnuj)*
 
 ---
 
